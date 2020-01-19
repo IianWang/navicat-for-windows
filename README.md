@@ -40,7 +40,7 @@ guides for Navicat cracked version
 
 成功的话会出现snkey，像这样
 
-![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
+![one](f556a77cd55c413470e850939123900.png)
 
 然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串snkey填入
 
