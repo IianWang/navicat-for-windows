@@ -24,10 +24,15 @@ guides for Navicat cracked version
 然后输入 Patch.exe "navicat.exe"
 
 ![one](d35fa9ea4f02b08b6b4bcea74a3addd.png)
+
 成功的话效果就是上面这样
 
 **step4:**
 接着输入 Keygen.exe RegPrivateKey.pem, 会提示让你输入name、organization，这块随便填，像这样
 ![one](ffc92272ccf97308ce22b847579dc4b.png)
 
-成功的话会出现snkey(也就是激活码)
+成功的话会出现snkey(也就是激活码)，像这样
+![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
+
+然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串激活码填入
+![one](803f23753c829552f3e28235a4f27f5.png)
