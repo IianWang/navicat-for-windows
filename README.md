@@ -49,7 +49,9 @@ guides for Navicat cracked version
 点击激活,会出来下面的框，忽略框框上面的那段话"请在有互联网连接的电脑$%#^$"我们这步依然是断着网的。
 
 ![one](9beec79b3dd85bab5bd31d9ce95aed7.png)
+
 然后将上面的请求码复制，粘贴到 **"Input request code (in Base64), empty line to return:"** 下，这样
+
 ![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
 
 然后敲击两下回车，然后会出现License (这就是激活码)，
