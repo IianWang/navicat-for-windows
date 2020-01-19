@@ -11,19 +11,19 @@ guides for Navicat cracked version
 链接：https://pan.baidu.com/s/1xUGx2Of29JDrOndGy16HeA 
 提取码：p3um
 
-###step1:<br>
+### step1:<br>
 安装navicat客户端（也就是“navicat12024_premium_cs_x64”），一顿点击下一步，此过程没啥特别注意的。
 <br>
 <br>
 
-**step2:**<br>
+### step2:<br>
 将“Navicat Premium 12.0.24破解补丁”解压，然后将解压后的四个文件，全部移动到“Navicat Premium 12”下面 (也就是跟"navicat.exe"同文件夹下)，
 ![one](c92ee3ded3ab1f3dbf09acdce20cd33.png)
 ![one](833d442dc1c80f2f2003e977fe8fd81.png)
 <br>
 <br>
 
-**step3:**
+### step3:<br>
 打开cmd，路径进入到"Navicat Premium 12"文件夹下，我这里是"D:\Program Files\PremiumSoft\Navicat Premium 12\"<br>
 然后输入 Patch.exe "navicat.exe"
 
@@ -33,7 +33,7 @@ guides for Navicat cracked version
 <br>
 <br>
 
-**step4:**
+### step4:<br>
 接着输入 Keygen.exe RegPrivateKey.pem, 会提示让你输入name、organization，这块随便填，像这样
 ![one](ffc92272ccf97308ce22b847579dc4b.png)
 
