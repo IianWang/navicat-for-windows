@@ -11,7 +11,7 @@ guides for Navicat cracked version
 链接：https://pan.baidu.com/s/1xUGx2Of29JDrOndGy16HeA 
 提取码：p3um
 
-**step1:**<br>
+###step1:<br>
 安装navicat客户端（也就是“navicat12024_premium_cs_x64”），一顿点击下一步，此过程没啥特别注意的。
 <br>
 <br>
