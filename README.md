@@ -58,3 +58,5 @@ guides for Navicat cracked version
 ![one](7aeb16323d58e1aa4b0718a73d20d5a.png)
 
 将它们复制粘贴回激活框下，并点击激活，然后提示激活成功即可永久使用了
+
+**激活后不要升级版本，否则需要重新激活**
