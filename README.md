@@ -13,11 +13,15 @@ guides for Navicat cracked version
 
 **step1:**<br>
 安装navicat客户端（也就是“navicat12024_premium_cs_x64”），一顿点击下一步，此过程没啥特别注意的。
+<br>
+<br>
 
 **step2:**<br>
 将“Navicat Premium 12.0.24破解补丁”解压，然后将解压后的四个文件，全部移动到“Navicat Premium 12”下面 (也就是跟"navicat.exe"同文件夹下)，
 ![one](c92ee3ded3ab1f3dbf09acdce20cd33.png)
 ![one](833d442dc1c80f2f2003e977fe8fd81.png)
+<br>
+<br>
 
 **step3:**
 打开cmd，路径进入到"Navicat Premium 12"文件夹下，我这里是"D:\Program Files\PremiumSoft\Navicat Premium 12\"<br>
@@ -26,19 +30,25 @@ guides for Navicat cracked version
 ![one](d35fa9ea4f02b08b6b4bcea74a3addd.png)
 
 成功的话效果就是上面这样
+<br>
+<br>
 
 **step4:**
 接着输入 Keygen.exe RegPrivateKey.pem, 会提示让你输入name、organization，这块随便填，像这样
 ![one](ffc92272ccf97308ce22b847579dc4b.png)
 
-成功的话会出现snkey(也就是激活码)，像这样
+成功的话会出现snkey，像这样
 ![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
 
-然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串激活码填入并点击激活
+然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串snkey填入并点击激活
 ![one](803f23753c829552f3e28235a4f27f5.png)
 
 ![one](9beec79b3dd85bab5bd31d9ce95aed7.png)
 然后将上面的请求码复制，粘贴到 **"Input request code (in Base64), empty line to return:"** 下，这样
 ![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
 
-然后敲击两下回车
+然后敲击两下回车，然后会出现License (这就是激活码)，
+
+![one](7aeb16323d58e1aa4b0718a73d20d5a.png)
+
+将它们复制粘贴回激活框下，并点击激活，然后提示激活成功即可永久使用了
