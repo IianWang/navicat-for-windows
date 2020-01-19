@@ -34,5 +34,11 @@ guides for Navicat cracked version
 成功的话会出现snkey(也就是激活码)，像这样
 ![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
 
-然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串激活码填入
+然后打开桌面上的"Navicat Premium 12"，并点击注册，将那串激活码填入并点击激活
 ![one](803f23753c829552f3e28235a4f27f5.png)
+
+![one](9beec79b3dd85bab5bd31d9ce95aed7.png)
+然后将上面的请求码复制，粘贴到 **"Input request code (in Base64), empty line to return:"** 下，这样
+![one](ed757a07d9177eb98fad7b8bc0fdb33.png)
+
+然后敲击两下回车
