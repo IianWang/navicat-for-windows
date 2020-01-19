@@ -1,8 +1,7 @@
 # navicat-for-windows
 guides for Navicat cracked version
 
-**注：该教程针对navicat 12.0.xx版本** <br>
-**文章编写时间2020-1-19**<br>
+**注：该教程针对navicat 12.0.xx版本windows 64位，文章编写时间2020-1-19**<br>
 
 网上包含这块的破解版教程很丰富，可能是时间的原因，当我按照他们的教程操作时发生了一系列错误，然后花时间找解决错误的办法，所以解决之后干脆整理一篇最新的教程给各位
 
